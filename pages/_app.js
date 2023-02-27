@@ -14,6 +14,11 @@ export default function Nextra({ Component, pageProps }) {
           href="/feed.xml"
         />
         <link
+          rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css"
+          referrerpolicy="no-referrer"
+        />
+        <link
           rel="preload"
           href="/fonts/Inter-roman.latin.var.woff2"
           as="font"
