@@ -3,6 +3,9 @@ import Head from 'next/head'
 
 import '../styles/main.css'
 
+import Prism from 'prism-react-renderer/prism';
+(typeof global !== 'undefined' ? global : window).Prism = Prism
+
 export default function Nextra({ Component, pageProps }) {
   return (
     <>
@@ -16,7 +19,7 @@ export default function Nextra({ Component, pageProps }) {
         <link
           rel="stylesheet"
           href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css"
-          referrerpolicy="no-referrer"
+          referrerPolicy="no-referrer"
         />
         <link
           rel="preload"
