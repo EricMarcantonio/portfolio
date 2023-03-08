@@ -15,7 +15,7 @@ author: Eric Marcantonio
 - Security Implications - what happens if they add input that makes our programs crash?
 
 
-# Guess whats back - String Methods! (5 min)
+## Guess whats back - String Methods! (5 min)
 
 - Start with `.isalpha()`
 
