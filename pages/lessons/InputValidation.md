@@ -17,9 +17,9 @@ author: Eric Marcantonio
 
 ## Guess whats back - String Methods! (5 min)
 
-- Start with `.isalpha()`
+- Start with ```.isalpha()```
 
-- `isdigit()`
+- ```isdigit()```
 
 - Is that enough? what about superscript 2? Is that not a number?
 
@@ -29,7 +29,7 @@ author: Eric Marcantonio
 
 - go over code blocks for both try and except
 
-- make a fake calculator on the board, asking the students what the program should do when the user enters `a`
+- make a fake calculator on the board, asking the students what the program should do when the user enters ```a```
 
 ```python
 try:
