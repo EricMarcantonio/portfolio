@@ -34,4 +34,5 @@ For this assignment, you will help the user store their grocery list for the wee
 2. Accept input from the user for each item they need to buy, and the cost of that item. It should be entered like: `What item would you like to add?: Eggs 4.29`
 3. You can assume that the user will enter a string, followed by a space and then a `float`. Use the `.split()` string method to help you.
 3. Continue to ask the user for an item, until they input `END`
-4. Output their shopping list items to the screen and the total cost of all items, in a formatted way of your choosing
+4. We also want to apply a discount to an item. Ask the user which item they would like to apply a 10% discount to. If they input something that isn't on the list, don't change any price.
+5. Output their shopping list items to the screen and the total cost of all items, in a formatted way of your choosing
