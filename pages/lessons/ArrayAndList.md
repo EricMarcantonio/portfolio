@@ -17,7 +17,7 @@ author: Eric Marcantonio
 - Lists have one node point to the next
 
 
-## We use lists in python. What does that look like? (20 min)
+## We use lists in python. What does that look like? (20 min)()
 
 - Start with the square brackets
 - Indexing, show similarities to the string indexing we have done
