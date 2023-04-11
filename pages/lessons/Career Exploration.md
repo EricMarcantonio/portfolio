@@ -1,5 +1,5 @@
 ---
-title: Lesson - Lists and Array
+title: Lesson - Career Exploration
 date: 2023/04/13
 description: Lesson taught to ICS3U based on career exploration
 tag: experience
