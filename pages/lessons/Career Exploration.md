@@ -152,4 +152,5 @@ webmaster
 - Students are to read the job descriptions available and find one they may want to do in the future. There are job titles that can be searched for each position.
 
 What skills are needed in their chosen position?
-
+Are there other jobs needed to get there? (if applicable)
+What education would you need for it?
