@@ -6,25 +6,30 @@ tag: experience
 author: Eric Marcantonio
 ---
 
+
+
 # Sub Programs - Args
 
 - Why should we pass arguments?
 
+
 ## Default values for arguments
 
-- Show students with a =
 - Talk about how this is bad practice
 
-## Pass by Reference vs Pass By Value
+## Return Keyword
 
-Reference (Mutable): `list`, `set`, and `dict`
+return keyword
 
-Value (Immutable): `int`, `float`, `bool`, `str`, `tuple`, and `complex`
 
-- Show an example of pass by reference working
-- Show an example of creating new objects, using the copy constructors
+### Example with input validation
+### Scope
 
-## Return Multiple values
+Get birthday no par but return
+
+Get zodiac takes bday return string of zodiac
+
+
 
 
 
