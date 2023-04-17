@@ -74,6 +74,7 @@ Congratulations. You now own a Red Civic with an ID of 140227374752888
 Your family owns 2 car(s):
 
 Mr. M owns a Purple Camry with an ID of 140404733081664
+
 Mr. Reid owns a Red Civic with an ID of 140227374752888
 
 ## Extension (if you finish early)
