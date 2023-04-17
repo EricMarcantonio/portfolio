@@ -14,6 +14,11 @@ author: Eric Marcantonio
 ## Cloud engineer
 Primary duties: Cloud engineers assess a company's tech infrastructures and transfer processes and functions to a cloud-based infrastructure. They plan, design, and develop cloud-based applications and software. They may work closely with technical teams to solve or troubleshoot any issues and find solutions with the cloud-based process. Cloud engineers often design and build various types of web services within a cloud-based environment.
 
+cloud architect
+cloud developer
+cloud engineer
+platform engineer
+
 ## Computer programmer
 Primary duties: Computer programmers write codes that enable software applications to run. They may use various computer languages for creating, testing, and fixing computer programs. Computer programmers often work closely with engineers and software developers to create plans for applications. They may be responsible for the coding so that computer operating systems can execute the programs. As computer programmers often spend many hours writing code, it's beneficial to be fluent in computer languages, such as Java, JavaScript, C++, Python, Swift, and Ruby. Some common roles in computer programming include:
 
@@ -45,7 +50,6 @@ systems administrator
 technical specialist
 technical support engineer
 technical support specialist
-Related: Desktop Support vs. Help Desk: What's the Difference?
 
 ## Cybersecurity specialist
 Primary duties: Cybersecurity specialists are information technology professionals responsible for maintaining the safety of a company's software and network security system. They develop, test, apply, and analyze the effectiveness of various security systems. It is helpful for cybersecurity specialists to be knowledgeable about potential vulnerabilities and that solutions and strategies for threat prevention and intervention. Cybersecurity specialisst have a junior role, as they perform entry-level tasks and complete both technical and administrative functions.
@@ -74,7 +78,6 @@ data scientist
 digital marketing analyst
 IT systems analyst
 quantitative analyst
-Related: Everything You Need To Know About Data Science as a Career
 
 ## Database administrator
 Primary duties: Database administrators (DBAs) are responsible for maintaining and managing software databases, such as user accounts, statistical surveys, client records, library catalogues, and census information. They often provide secure access to databases and create backup solutions to prevent data loss in the event of system failure. DBAs may help develop stages of database systems. They can also diagnose and troubleshoot database system issues, install patches and updates to optimize database systems, test modifications to database structures, and update anti-virus software. Some common careers related to database administration include:
@@ -87,7 +90,6 @@ data warehouse administrator
 performance analyst
 system DBA
 task-oriented DBA
-Related: How to Draft a Database Programmer Resume in 8 Steps
 
 ## IT sales professional
 Primary duties: Information technology (IT) sales professionals help commercial clients find the right technological software and hardware. To achieve this, IT sales professionals get to know their client's specific and diverse business needs, applying product knowledge to meet these needs. They maintain updated knowledge of technical specifications and other features of their employers' processes and systems to ensure quality service. IT sales professionals also perform cold calls to create interest in IT services and products, identify and develop new business contacts by networking, and prepare and deliver demonstrations and presentations of software to potential clients.
@@ -132,7 +134,6 @@ security engineer
 software integration engineer
 three-dimensional graphics developer
 video game designer
-Related: How to Write a DevOps Resume (With Steps and Example)
 
 ## Web developer
 Primary duties: Web developers are responsible for writing code used to create websites, both at the front end, which includes the website that users see, and the back end, which is the side that delivers information to the front end. They may assist designers in creating a website's appearance and including a method for visitors to provide feedback. Often, web developers learn the company requirements or client requests for websites, analyze user feedback, and make changes accordingly. They often implement testing tools to monitor the website and keep software updated to ensure that websites and related software are secure.
