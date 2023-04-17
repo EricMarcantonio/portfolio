@@ -91,6 +91,7 @@ Which user should I take a car from? Mr. Reid
 Nice! Eric's ride was replaced with Mr. Reid's who had an id of 140227374752888
 
 Eric's car is now a Red Civic with an ID of 140227374752888
+
 Mr Reid's car is now None
 
 
