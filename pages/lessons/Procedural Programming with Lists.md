@@ -28,7 +28,9 @@ There are base models for the cars, and family members can choose the car type a
 
 Each step of this process, you are going to tell the user the id of the base model, and the id of their new car after you create it.
 
-You are then going to tell the user the attributes of your car
+You are then going to tell the user the attributes of your car.
+
+As you go about this assignment: where are some good places to use subprograms?
 
 ### Example input and output
 What is your name?: Mr. M
@@ -87,4 +89,8 @@ Oh no, user Mr. M's car with id 140404733081664 won't start
 Which user should I take a car from? Mr. Reid
 
 Nice! Eric's ride was replaced with Mr. Reid's who had an id of 140227374752888
+
+Eric's car is now a Red Civic with an ID of 140227374752888
+Mr Reid's car is now None
+
 
