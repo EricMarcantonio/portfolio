@@ -16,3 +16,7 @@ C3. demonstrate an understanding of the software development process.
 ## Student Activity
 
 Students are to pair up, and solve the attached problem.
+
+Instructions are posted on Google Classroom, and the Repl has the coding problem for them.
+
+Pairs have already been decided (see the Sheets document on GClass)

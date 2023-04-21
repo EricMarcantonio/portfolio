@@ -26,5 +26,3 @@ Why do we need it?
 - Create a repo using their handle name, and `README.md`
 
 - Write something about them (that the public is okay to know about), and share it me
-
-in 5 years
