@@ -16,8 +16,6 @@ author: Eric Marcantonio
 
 - TDD: What is it, and how would we use it?
 
-- Mr. Reid - do we want to get into pre and post conditions?
-
 
 ### Activity
 
