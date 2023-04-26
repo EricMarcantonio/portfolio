@@ -22,7 +22,7 @@ export default function Document() {
         <meta name="twitter:description" content={meta.description} />
         <meta name="twitter:image" content={meta.image} />
       </Head>
-      <body className='container mx-auto'>
+      <body>
         <Main />
         <NextScript />
       </body>
