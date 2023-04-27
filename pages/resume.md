@@ -4,7 +4,6 @@ title: Resume
 date: 2021-03-19
 ---
 # Teaching Experience
-# Teaching
 
 ## York University
 ### Teaching Assistant
@@ -19,8 +18,6 @@ date: 2021-03-19
 
 ## Stem1
 ### Tutor
-
-https://www.linkedin.com/company/stem1/
 
 # Industry
 

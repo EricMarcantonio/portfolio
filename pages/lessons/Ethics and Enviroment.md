@@ -18,3 +18,16 @@ author: Eric Marcantonio
 
 # Environment
 
+# Debate time?
+
+## Should we have ChatGPT?
+- Who should decide what information is fed into ChatGPT?
+- What is considered right and wrong?
+- How about misinformation?
+
+## Should we have social media?
+- Privacy
+- Misinformation
+- 
+
+
