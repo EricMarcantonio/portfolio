@@ -18,6 +18,10 @@ author: Eric Marcantonio
 
 # Environment
 
+## Lithium mining
+
+## What about bitcoin?
+
 # Debate time?
 
 ## Should we have ChatGPT?
