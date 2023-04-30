@@ -14,8 +14,12 @@ This is a portfolio; a collection of artifacts, information and more about my ex
 
 ## Thank you for stopping by!
 
-Feel free to checkout any of the above tabs on the right. I have also made the source code available [here](http://github.com/EricMarcantonio/teaching-portfolio)
+Feel free to checkout any of the above tabs. I have also made the source code available [here](http://github.com/EricMarcantonio/teaching-portfolio)
 
+
+# Biggest Highlight
+
+At the end of my placement, the students put together a Kudoboard, where they can write messages to someone on a board like format. This was by far the best part of teaching: I can truly tell that I have made an impact based on their kind words, and in class teachings
 ---
 
 - GitHub [@EricMarcantonio](https://github.com/EricMarcantonio)

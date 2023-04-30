@@ -32,3 +32,4 @@ Xavier was one of the nicest schools I have ever seen. They had a ton of ameniti
 
 Here are the times for the school:
 {<img src="/images/school_times.png" width='400' height='400'/>}
+
